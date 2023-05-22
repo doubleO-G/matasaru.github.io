@@ -194,7 +194,7 @@ nav {
 #logo a span {
     display: block;
     font-size: 16px;
-    color: #00b381;
+    color: #d21819;
     text-align: center;
     border: none;
     border-top: 1px solid #fff;
@@ -262,7 +262,7 @@ nav ul li ul li:hover {
 
 .menu li.active a,
 .menu li a:hover {
-    color: #00b381;
+    color: #d21819;
     border: none;
     transition: 0.5s all;
     -webkit-transition: 0.5s all;
@@ -384,7 +384,7 @@ a.reqe-button {
         -ms-transition: 0.5s all;
     }
     .menu .toggle:hover {
-        color: #00b381;
+        color: #d21819;
         transition: 0.5s all;
         -webkit-transition: 0.5s all;
         -moz-transition: 0.5s all;
@@ -568,7 +568,7 @@ background-color: #212121;
 
 .view-price a {
     border-radius: 3px;
-    background: #00b381;
+    background: #d21819;
     color: #fff;
     text-decoration: none;
     text-transform: capitalize;
@@ -656,7 +656,7 @@ background-color: #212121;
 
 .counter-number {
     font-size: 25px;
-    color: #00b381;
+    color: #d21819;
     font-weight: 500;
     letter-spacing: 1px;
     border: none;
@@ -708,7 +708,7 @@ background-color: #212121;
 }
 
 .ser-sevice-grid:hover {
-    background: #00b381;
+    background: #d21819;
 }
 
 .ser-sevice-grid:hover.ser-sevice-grid h4 {
@@ -809,7 +809,7 @@ background-color: #212121;
     -o-transition: all 0.4s;
     transition: all 0.4s;
     background: #fff;
-    border: 1px solid #00b381;
+    border: 1px solid #d21819;
     width: 33px;
     height: 33px;
     line-height: 33px;
@@ -817,7 +817,7 @@ background-color: #212121;
 }
 
 .social-icons li a span:hover {
-    background: #00b381;
+    background: #d21819;
 }
 
 /*-- team-- */
@@ -839,7 +839,7 @@ background-color: #212121;
 
 .blog-info a ul {
     margin: 0;
-    background: #00b381;
+    background: #d21819;
     padding: 15px;
     text-align: center;
     color: #fff;
@@ -866,21 +866,21 @@ background-color: #212121;
 
 .mid-text-info h4 a {
     font-size: 24px;
-    color: #00b381;
+    color: #d21819;
     line-height: 39px;
 }
 
 /* info-matter */
 
 .info-matter {
-    background: #00b381;
+    background: #d21819;
 }
 
 /*-- contact-- */
 
 .contact-address-info h2 a {
     font-size: 35px;
-    color: #00b381;
+    color: #d21819;
     font-weight: bolder;
     text-transform: uppercase;
     letter-spacing: 2px;
@@ -894,7 +894,7 @@ background-color: #212121;
     background: #f3f3f3;
     outline: none;
     border: none;
-    border-left: 2px solid #00b381;
+    border-left: 2px solid #d21819;
     border-radius: 0px;
     outline: none !important;
     box-shadow: 0px 0px 3px #bdbcbc;
@@ -928,7 +928,8 @@ background-color: #212121;
 button.sent-butnn {
     width: 100%;
     color: #fff;
-    background: #00b381;
+    background: #d21819
+	    ;
     font-size: 16px;
     padding: 10px 0px;
     letter-spacing: 1px;
